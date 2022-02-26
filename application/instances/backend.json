@@ -19,7 +19,7 @@
     "strategy": "RollingUpdate",
     "build": {
      "artifactory": "default",
-     "name": "springboot-backend"
+     "name": "springbootsample-springboot-backend"
     }
    },
    "runtime": {
