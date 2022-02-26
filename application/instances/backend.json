@@ -16,7 +16,7 @@
    },
    "permission": [],
    "release": {
-    "strategy": "ReCreate",
+    "strategy": "RollingUpdate",
     "build": {
      "artifactory": "default",
      "name": "springboot-backend"
