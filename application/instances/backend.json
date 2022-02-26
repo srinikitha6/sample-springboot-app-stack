@@ -24,7 +24,8 @@
    },
    "runtime": {
     "size": {
-     "value": "small"
+     "value": "small",
+     "namespace": "GP"
     },
     "autoscaling": {
      "cpuThreshold": "50",
