@@ -18,8 +18,7 @@
    "release": {
     "strategy": "RollingUpdate",
     "build": {
-     "artifactory": "default",
-     "name": "springbootsample-springboot-backend"
+     "image": "313496281593.dkr.ecr.us-east-1.amazonaws.com/facets/springbootsample/springboot-backend:latest"
     }
    },
    "runtime": {
