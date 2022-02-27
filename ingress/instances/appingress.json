@@ -3,5 +3,6 @@
   "apiVersion": "v2",
   "private": false,
   "domains": [],
-  "force_ssl_redirection": false
+  "force_ssl_redirection": false,
+  "subdomains" : []
 }
