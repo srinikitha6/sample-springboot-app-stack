@@ -1,4 +1,7 @@
 {
   "$schema": "https://docs.facets.cloud/schemas/ingress/instances/ingress.schema",
-  "apiVersion": "v2"
+  "apiVersion": "v2",
+  "private": false,
+  "domains": [],
+  "force_ssl_redirection": false
 }
