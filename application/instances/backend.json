@@ -15,7 +15,7 @@
     "rules": [
      {
       "ingress": "appingress",
-      "path": "/hello",
+      "path": "/",
       "portName" : "port8080"
      }
     ]
