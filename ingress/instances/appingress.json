@@ -1,0 +1,4 @@
+{
+  "$schema": "https://docs.facets.cloud/schemas/ingress/instances/ingress.schema",
+  "apiVersion": "v2"
+}

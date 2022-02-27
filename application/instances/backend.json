@@ -12,7 +12,13 @@
 
    },
    "loadbalancing": {
-    "rules": []
+    "rules": [
+     {
+      "ingress": "appingress",
+      "path": "/hello",
+      "portName": "8080"
+     }
+    ]
    },
    "permission": [],
    "release": {
