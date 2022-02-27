@@ -16,7 +16,7 @@
      {
       "ingress": "appingress",
       "path": "/hello",
-      "portName": "8080"
+      "portName" : "port8080"
      }
     ]
    },
@@ -36,8 +36,11 @@
      "cpuThreshold": "50",
      "max": 1,
      "min": 1
-    }
-
+    },
+    "ports": [{
+     "name": "port8080",
+     "port": 8080
+    }]
    }
   }
  }
