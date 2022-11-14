@@ -1,7 +1,7 @@
 {
   "$schema": "https://docs.facets.cloud/schemas/features.schema",
   "spec": {
-    "choas_testing": false,
+    "choas_testing": true,
     "pmm": false,
     "newrelic_infra_monitoring": false,
     "pod_dumps_archival": false,
